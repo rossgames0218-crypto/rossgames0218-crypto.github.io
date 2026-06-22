@@ -1,3 +1,5 @@
+# Neon Sync Rush
+
 Neon Sync Rush is a casual rhythm game built around futuristic neon visuals and original procedural electronic music.
 
 Choose a track, select a difficulty, and tap each lane as notes reach the glowing hit line. Perfect, Great, Good, and Miss judgments appear instantly, helping you improve your timing and push your combo higher with every run.
